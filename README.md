@@ -23,7 +23,7 @@ This Automated Grading Application is designed to grade essays using deep learni
 
 ## Dataset
 
-The dataset used for training the model can be found [here](https://paperswithcode.com/dataset/asap). To train the model, download the dataset and run the LSTM Model Training file.
+The dataset used for training the model can be found [here](https://paperswithcode.com/dataset/asap). To train the model, download the dataset and run the LSTM Model Training file or use the saved model.
 
 ## Requirements
 
